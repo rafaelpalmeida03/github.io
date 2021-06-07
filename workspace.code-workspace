@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Downloads\\Compressed\\Nova pasta\\assets"
+		},
+		{
+			"path": "..\\..\\Downloads\\Compressed\\Nova pasta\\images"
+		},
+		{
+			"path": "..\\..\\Downloads\\Compressed\\Nova pasta\\images\\fulls"
+		},
+		{
+			"path": "..\\..\\Downloads\\Compressed\\Nova pasta\\images\\thumbs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "websiterafaHTML"
+	}
+}
